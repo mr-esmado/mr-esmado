@@ -1,0 +1,19 @@
+import time
+print("selamat datang di tools kirim virus by niko wnc\n")
+print("----------------------------------------")
+print("author : NIKO WNC|")
+print("team : esmado team|")
+print("wa:085777433886|\n")
+print("----------------------------------------")
+a = input("\nnama anda:")
+print("\nhai", a, "gimana kabarmu?semoga baik-baik saja\n")
+time.sleep(1)
+time.sleep(1)
+c = input("masukkan nomer target: ")
+time.sleep(1)
+time.sleep(2)
+d =int(input("jumlah virus yg mau dikirim: "))
+
+
+for i in range(c):
+	print("berhasil mengirim virus ke nomor", c)
